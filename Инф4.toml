@@ -1,0 +1,33 @@
+[schedule]
+    students_name = "Александра Рожкова"
+    ID = 501880
+
+[schedule.monday]
+    subject1 = "Информатика"
+    type.subject1 = "Лабораторная"
+    teacher.subject1 = "Рыбаков Степан Дмитриевич"
+    classroom.subject1 = "Ауд. 1338, Кронверкский пр., д.49, лит.А"
+    start_time.subject1 = 09:50:00
+    final_time.subject1 = 11:20:00
+
+    subject2 = "Информатика"
+    type.subject2 = "Лабораторная"
+    teacher.subject2 = "Рыбаков Степан Дмитриевич"
+    classroom.subject2 = "Ауд. 1338, Кронверкский пр., д.49, лит.А"
+    start_time.subject2 = 11:30:00
+    final_time.subject2 = 13:00:00
+
+[schedule.thursday]
+    subject1 = "Программирование"
+    type.subject1 = "Лабораторная"
+    teacher.subject1 = "Бобрусь Александр Владимирович"
+    classroom.subject1 = "Ауд. 1333, Кронверкский пр., д.49, лит.А"
+    start_time.subject1 = 08:10:00
+    final_time.subject1 = 09:40:00
+
+    subject2 = "Программирование"
+    type.subject2 = "Лабораторная"
+    teacher.subject2 = "Бобрусь Александр Владимирович"
+    classroom.subject2 = "Ауд. 1333, Кронверкский пр., д.49, лит.А"
+    start_time.subject2 = 09:50:00
+    final_time.subject2 = 11:20:00
